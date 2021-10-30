@@ -1,0 +1,16 @@
+.heading {
+    color: green ;
+    font-size: large;
+}
+
+.para {
+    color :#33FFFF ;
+    font-size: 30px;
+    transform: translate3d();
+    top: 10cm ;
+}
+.new {
+    color :greenyellow ;
+    font-size: 80px ;
+    
+}
