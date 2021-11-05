@@ -1,0 +1,56 @@
+body > h1{
+    color: rgb(255, 255, 255);
+    background-color: rgb(121, 10, 143);
+    background-image: image("https://halotravel.vn/wp-content/uploads/2020/04/xu-huong-chinh-anh-chup-anh-moi-8.jpg");
+    border-radius: 90px;
+    transition: padding 0.5s;
+    transition: font-size 0.5s;
+}
+
+h1:hover{
+    padding: 14px 30px;
+    font-size: 50px ;
+
+
+}
+body > div {
+    margin: 0100px;
+
+}
+.btn {
+    display: inline-block;
+    color : rgb(255, 255, 255);
+    padding: 12px 48px;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: opacity 0.3s ;
+    transition: padding 0.3s ;
+}
+
+a {
+    text-decoration: none;
+    color :white
+}
+.btn:hover{
+    background-color :#4117da;
+    color : black ;
+    padding: 15px 35px;
+    opacity: 0.5;
+
+}
+.btn + .btn{
+    margin-left : 20px;
+    max-width: 10cm;
+    min-width: 5cm;
+}
+.btn--one {
+    background-color: #63ff33 ;
+    
+}
+.btn--two {
+    background-color: #bb4cb2 ;
+    
+}
+.btn--three{
+    background-color: #45cee0 ;
+}
