@@ -1,6 +1,5 @@
 body > h1{
     color: rgb(255, 255, 255);
-    background-color: rgb(121, 10, 143);
     background-image: image("https://halotravel.vn/wp-content/uploads/2020/04/xu-huong-chinh-anh-chup-anh-moi-8.jpg");
     border-radius: 90px;
     transition: padding 0.5s;
@@ -18,9 +17,8 @@ body > div {
 
 }
 .btn {
-    display: inline-block;
     color : rgb(255, 255, 255);
-    padding: 12px 48px;
+    padding: 15px 48px;
     border-radius: 100px;
     cursor: pointer;
     transition: opacity 0.3s ;
@@ -34,12 +32,12 @@ a {
 .btn:hover{
     background-color :#4117da;
     color : black ;
-    padding: 15px 35px;
+    padding: 15px 60px;
     opacity: 0.5;
 
 }
 .btn + .btn{
-    margin-left : 20px;
+    margin-bottom : 20px;
     max-width: 10cm;
     min-width: 5cm;
 }
