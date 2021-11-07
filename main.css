@@ -23,6 +23,8 @@ body > div {
     cursor: pointer;
     transition: opacity 0.3s ;
     transition: padding 0.3s ;
+    min-width: 5cm ;
+    max-width: 10cm ;
 }
 
 a {
@@ -37,9 +39,7 @@ a {
 
 }
 .btn + .btn{
-    margin-bottom : 20px;
-    max-width: 10cm;
-    min-width: 5cm;
+    margin-top: 20px;
 }
 .btn--one {
     background-color: #63ff33 ;
