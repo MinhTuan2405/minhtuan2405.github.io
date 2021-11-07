@@ -1,6 +1,6 @@
 body > h1{
     color: rgb(255, 255, 255);
-    background-image: image("https://halotravel.vn/wp-content/uploads/2020/04/xu-huong-chinh-anh-chup-anh-moi-8.jpg");
+    background-color: black ;
     border-radius: 90px;
     transition: padding 0.5s;
     transition: font-size 0.5s;
