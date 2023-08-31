@@ -1,10 +1,8 @@
-visit me at https://minhtuan2405.github.io
+visit me at https://minhtuan2405.github.io ( this page is for my girlfriend ) 
 
-NGUYEN HA MINH TUAN
+NGUYEN HA MINH TUAN - student at VNU_UIT ( University of Information Technology ) 
 
-Student at PHU MY 1 high school 
-
-Address : Phu My district_Binh Dinh province_Viet Nam 
+Address : Linh Trung - Thu Duc city - Ho Chi Minh city 
 
 contact me : +8487181343 (vietnamese) --telegram
              +8442809493 (vietnamese) --telegram
